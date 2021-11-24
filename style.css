@@ -13,10 +13,17 @@ header{
     width: 100px;
     height: 100px;
 }
+.main-nav a{
+    text-decoration: none;  
+    padding: 0 20px;
+    text-transform: uppercase;
+}
+
+
 main img {
     width: 100%;
-
 }
+
 h1 {
     text-align: center;
 }
